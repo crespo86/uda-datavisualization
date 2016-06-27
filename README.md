@@ -44,10 +44,10 @@ Each teams.
 ### background description of League
 ave mean one hit but in baseball there are several hit like single, double, and homerun etc.
 so even if the league ave is low that cannot show era is low.
-Slugger League : Low avg High era which means batter got more double, homerun than other season.
-Pitchers league : Low avg, Low era which means Pitcher dominated the league.
-Batters league : High avg, High era which means Batter dominated the league.
-Contact league : High avg, Low era which means batter got a lot hit but that couldn't be run
+- Slugger League : Low avg High era which means batter got more double, homerun than other season.
+- Pitchers league : Low avg, Low era which means Pitcher dominated the league.
+- Batters league : High avg, High era which means Batter dominated the league.
+- Contact league : High avg, Low era which means batter got a lot hit but that couldn't be run
 
 
 ### X, Y axis
