@@ -125,10 +125,10 @@ I want to find some relationships with some features and attendance.
 
   - I couldnot find OPS of Southkorea league so I couldn't
   - I made **new map plot**
-<img src="/map2.png" width="48">
+<img src="/map2.png" width="300">
   - I used team as legend
   - I made League division
-<img src="/table2.png" width="48">
+<img src="/table2.png" width="300">
 
 
 ### reference
