@@ -57,8 +57,7 @@ they are AVG and ERA. I cut the axis to see more clearly.
 This is the attendance of a team
 
 ### Color of bubbles
-This is the rank. First I used several color by each team. However It cannot be readable so I tried to devide 3 group.
-Top 2, Bottom 2 and others.
+This is the team color you can see each team using color
 
 ### Right side bar
 IT is total yearly attendance of Korean baseball League. and also It can be a console to see the plot yearly.
