@@ -103,8 +103,8 @@ I want to find some relationships with some features and attendance.
 
 2. Stats
   - Korean baseball League attendance is growing up. (See right bar)
-  - High **league** AVG make more Attendance than High league ERA. 
-  - How much they far from each other shows the League's rise and fall. 
+  - High **league** AVG make more Attendance than High league ERA. (batter's league make more attendance than pitcher's league
+  - How much they far from each other shows the League's rise and fall. If the teram is short, it means the league is so intense league. you can see this from 2000 to 2001, 2010 to 2012, 2013 to 2015. (the growing of attendance is not just effect by this factor so it can not be showing effective always.
    
 ## Feedback
 
@@ -124,8 +124,9 @@ I want to find some relationships with some features and attendance.
 3. what I change and what I didn't change
 
   - I couldnot find OPS of Southkorea league so I couldn't
-  - I made map in stadium data
-  - I change bubble color
+  - I made **new map plot**
+  - I used team as legend
+  - I made League division
 
 ### reference
 
