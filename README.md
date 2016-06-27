@@ -103,8 +103,8 @@ I want to find some relationships with some features and attendance.
 
 2. Stats
   - Korean baseball League attendance is growing up. (See right bar)
-  - High Rank team doesn't High attendance. (Blue team is not normally High scale)
-  - High **league** AVG make more Attendance than High league ERA. (it can be hard to understand cuz my fool english. In korea, the season which is pitchers dominate league call pitcher's era and the season which is batters dominate league call batter's era. In the plot most of team located at bottom left, it is pitcher's era and if they are located at top right, it call batter's era. in batter's era, usually increased attendance.)
+  - High **league** AVG make more Attendance than High league ERA. 
+  - How much they far from each other shows the League's rise and fall. 
    
 ## Feedback
 
