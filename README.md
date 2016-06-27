@@ -69,7 +69,15 @@ the final plot
 
 http://bl.ocks.org/crespo86/9851e479cf01a70d81255a51dade6f80#file-index-html
 
+### Plot Design
 
+- map + bubbles
+  - People want to see the attendance by location and the map is the best way to make it.
+  - I used bubbles for attendance because bubbles are really good to compair each location and show pregress by year.
+
+- scatter chart + bubbles
+  - I want to show property of league by year using team stats. Using scatter chart, I can see the aggregation of team stats by years. 
+  - for the first time, I thought name of tean is not important in this plot because I want to see the aggregation to understand league stuation by year. However some feedback want to see the stats and attendance by team in this graph. so I used team color and attendance as bubbles.
 
 ### Interpret
 
@@ -88,7 +96,7 @@ I want to find some relationships with some features and attendance.
   - Korean baseball League attendance is growing up. (See right bar)
   - High Rank team doesn't High attendance. (Blue team is not normally High scale)
   - High **league** AVG make more Attendance than High league ERA. (it can be hard to understand cuz my fool english. In korea, the season which is pitchers dominate league call pitcher's era and the season which is batters dominate league call batter's era. In the plot most of team located at bottom left, it is pitcher's era and if they are located at top right, it call batter's era. in batter's era, usually increased attendance.)
-
+   
 ## Feedback
 
 1. from Southkorea baseball community mlbpark.com
